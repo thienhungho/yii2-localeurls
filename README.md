@@ -15,6 +15,8 @@ Automatic locale/language management through URLs for Yii 2.
 
 ## Features
 
+This is just an example, memorible moment. The source code may not work for known reasons. This source code include against loss license feature.
+
 With this extension you can use URLs that contain a language code like:
 
     /en/some/page
